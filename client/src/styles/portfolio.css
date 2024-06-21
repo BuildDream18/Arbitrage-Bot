@@ -1,0 +1,24 @@
+#portfolio_container {
+    display: flex;
+    margin-top:  -80px;
+}
+
+#portfolio_column_container {
+    display: flex;
+    flex-direction: column;
+}
+
+#portfolio_data_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 50px;
+}
+
+#trade_container {
+    display: flex;
+    flex-direction: column;
+    background-color: cadetblue;
+    padding: 20px;
+    margin-left: 50px;
+}

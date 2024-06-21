@@ -1,0 +1,19 @@
+-Pages
+overview(portfolio, deposit, withdraw)
+trading
+
+-Techs
+typescript
+react
+hook
+
+lightchart
+websocket
+
+AWS(lambda, dynamodb, SNS, SQS, api gateway, Elastic beanstalk, amplify, S3)
+
+web3 subscribe
+coinbase subscribe for price update
+
+-Concepts
+leverage
